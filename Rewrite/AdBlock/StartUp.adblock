@@ -735,9 +735,6 @@ https://top-widgets-api.xiaozujian.com/api/ad/config url reject-200
 
 # ======= V ======= #
 
-# > v2ex
-^https?:\/\/.*v2ex\.com\/($|t\/\d+) url script-response-body https://cdn.jsdelivr.net/gh/ddgksf2013/Scripts@refs/heads/master/v2ex.js
-
 
 # ======= W ======= #
 
